@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ColorHexe</string>
     <string name="swText">Show hints:</string>
+    <string name="push_me">Push me!</string>
+    <string name="redHidden">###</string>
+    <string name="greenHidden">###</string>
+    <string name="blueHidden">###</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
 </resources>
